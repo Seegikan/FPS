@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{e49f4cc7-5b41-41ad-b291-62d415b09e6d}">
+		<property name="assetPath">
+			<value>Player/Steps/Marble Running/SFX_Dessi_Running_Marble_14.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{955ff707-b053-458f-a1f7-e7aa7a719bb6}</destination>
+		</relationship>
+	</object>
+</objects>

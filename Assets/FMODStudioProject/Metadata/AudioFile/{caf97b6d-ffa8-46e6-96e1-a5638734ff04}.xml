@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{caf97b6d-ffa8-46e6-96e1-a5638734ff04}">
+		<property name="assetPath">
+			<value>Player/Steps/Marble Walking/SFX_Dessi_Walking_Marble_11.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{955ff707-b053-458f-a1f7-e7aa7a719bb6}</destination>
+		</relationship>
+	</object>
+</objects>

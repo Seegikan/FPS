@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{a4579eb7-c11c-4179-bb7e-8fd4301cc2c4}">
+		<property name="assetPath">
+			<value>Music/MX_Alien_10_00_1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>31.849333333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{955ff707-b053-458f-a1f7-e7aa7a719bb6}</destination>
+		</relationship>
+	</object>
+</objects>

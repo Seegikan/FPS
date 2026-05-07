@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{a6209bc0-0f28-4ffd-ab0f-1b8e507f6040}">
+		<property name="assetPath">
+			<value>Player/Take Object/Gas Tank/SFX_Dessi_Take_GasTank_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{955ff707-b053-458f-a1f7-e7aa7a719bb6}</destination>
+		</relationship>
+	</object>
+</objects>
